@@ -1,0 +1,38 @@
+# Dependências
+/node_modules/
+/.pnp
+.pnp.js
+
+# Arquivos de build
+/.next/
+/out/
+
+# Produção
+/build
+
+# Variáveis de ambiente
+.env*.local
+.env
+
+# Arquivos de depuração
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do sistema
+.DS_Store
+*.pem
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Cache
+.cache/
+.temp/
+.tmp/
